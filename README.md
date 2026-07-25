@@ -78,7 +78,7 @@
 
 - 💬 微信：通过 Server 酱服务号间接联系 📲
 - 🐙 GitHub：[@s-ssss](https://github.com/s-ssss) 🌟
-- 🌐 博客：[3love.github.io](https://3love.github.io) 📝
+- 🌐 Plog ：[3love.github.io](https://3love.github.io) 📂
 
 ---
 
