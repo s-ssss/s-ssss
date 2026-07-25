@@ -63,13 +63,10 @@
 
 ---
 
-## 📊📈
-
-![GitHub Stars](https://img.shields.io/github/stars/s-ssss/s-ssss?style=social)
-![GitHub Followers](https://img.shields.io/github/followers/s-ssss?style=social)
 ![Rust](https://img.shields.io/badge/Recently-Learning%20Rust-orange)
 ![Python](https://img.shields.io/badge/Also-Python-blue)
----
+![Shell](https://img.shields.io/badge/Shell-script-999999)
+![HTML](https://img.shields.io/badge/HTML-little-1572B6)
 
 ## 🌱🧪 **最近在研究**
 
