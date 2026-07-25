@@ -65,9 +65,10 @@
 
 ## 📊📈
 
-![stats](https://github-readme-stats.vercel.app/api?username=s-ssss&show_icons=true&theme=tokyonight&hide_title=true)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-ssss&layout=compact&theme=tokyonight)
-
+![GitHub Stars](https://img.shields.io/github/stars/s-ssss/s-ssss?style=social)
+![GitHub Followers](https://img.shields.io/github/followers/s-ssss?style=social)
+![Rust](https://img.shields.io/badge/Recently-Learning%20Rust-orange)
+![Python](https://img.shields.io/badge/Also-Python-blue)
 ---
 
 ## 🌱🧪 **最近在研究**
